@@ -1,5 +1,7 @@
 package commandPattern;
 
+
+//  reciver 
 public class BedRoomLight implements Light {
 
 	@Override

@@ -1,5 +1,7 @@
 package commandPattern;
 
+
+//receiver
 public interface Light {
 
 	void on();

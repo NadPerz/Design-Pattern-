@@ -2,6 +2,8 @@ package commandPattern;
 
 public class LivingRoomLight implements Light {
 
+	// reciver
+
 	@Override
 	public void on() {
  
